@@ -1,0 +1,2 @@
+Maven es una versión mejorada de Gradle. Mientras que Maven y Ant  utiliza XML, Gradle utliza Groovy.
+Segun el proyecto que vallamos ha realizar nos quedaremos con una u otra. Si queremos realizar un proyecto sencillo y simple utilizaremos Maven. Para un proyecto más largo o extenso utlizaremos Maven.
